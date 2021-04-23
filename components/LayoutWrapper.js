@@ -1,6 +1,7 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
+import Logo from '@/data/tplogo_white.svg'
+import LogoDark from '@/data/tplogo_dark.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
@@ -8,22 +9,28 @@ import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 
 const LayoutWrapper = ({ children }) => {
+
+
   return (
-    <SectionContainer>
+
+    < SectionContainer >
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between py-10">
           <div>
             <Link href="/" aria-label="Tailwind CSS Blog">
               <div className="flex items-center justify-between">
-                <div className="mr-3">
+                <div className="mr-3 hidden dark:block">
                   <Logo />
+                </div>
+                <div className="mr-3 dark:hidden">
+                  <LogoDark />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (
-                  siteMetadata.headerTitle
+                  "siteMetadata.headerTitle"
                 )}
               </div>
             </Link>
@@ -47,7 +54,7 @@ const LayoutWrapper = ({ children }) => {
         <main className="mb-auto">{children}</main>
         <Footer />
       </div>
-    </SectionContainer>
+    </SectionContainer >
   )
 }
 
