@@ -2,7 +2,7 @@
 title: Sample .md file
 date: '2016-03-08'
 tags: ['markdown', 'code', 'features']
-draft: false
+draft: true
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
 
@@ -14,9 +14,9 @@ Sample of inline highlighting `sum = parseInt(num1) + parseInt(num2)`
 
 ## Code Blocks
 
-Some Javascript code
+Some dart code
 
-```javascript
+```dart
 var num1, num2, sum
 num1 = prompt('Enter first number')
 num2 = prompt('Enter second number')
