@@ -15,6 +15,7 @@ export default function App({ Component, pageProps }) {
       <MDXProvider components={MDXComponents}>
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
+          <script async defer data-domain="tadaspetra.com" src="https://plausible.io/js/plausible.js"></script>
         </Head>
         <DefaultSeo {...SEO} />
         <LayoutWrapper>
