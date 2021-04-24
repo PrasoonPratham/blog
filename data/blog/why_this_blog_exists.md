@@ -3,7 +3,7 @@ title: Why this Blog Exists?
 date: "2021-04-23"
 tags: ["personal"]
 draft: false
-summary: This blog is my own little space on the internet, where no algorithm can determine what I do.
+summary: This blog is my own little space on the internet, where no algorithm can determine what I do
 ---
 
 Hey, I'm Tadas. If you don't know me, I am a Flutter Developer, YouTuber, and now Developer Evangelist at Agora. This is my blog site, and here is why it exists.
