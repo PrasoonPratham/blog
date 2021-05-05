@@ -1,7 +1,7 @@
 ---
 title: How To Grow Your Blog
 date: "2021-05-04"
-tags: ["social media"]
+tags: ["Social Media"]
 draft: false
 summary: Three most important tips for growing your blog.
 ---
