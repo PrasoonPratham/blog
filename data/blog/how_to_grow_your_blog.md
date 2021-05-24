@@ -5,7 +5,6 @@ tags: ["Social Media"]
 draft: false
 summary: Three most important tips for growing your blog.
 ---
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/krossa-prod.appspot.com/o/wrJnWMr8gdgumvqnQ8i2H6W7Dwi1%2Farticles%2FTstOA37s3NQWk4B2bliN%2Fmarkus-spiske-vrbZVyX2k4I-unsplash.jpg?alt=media&token=b7dba673-ce11-484d-ab5f-88b16a2bb4f2)
 
 Growing a blog in this day and age is no easy task. There is so much content online that getting noticed seems like an insurmountable task. But here are just a few approaches that will increase your chances. 
 
