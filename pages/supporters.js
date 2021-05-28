@@ -34,7 +34,7 @@ export default function Supporters() {
                             Tanner Meade
                         </h2> */}
                         <h3>
-                            Van Yang, ElmoCrispers, Andy Drexler, Nathan Tofte, Axel Vinant, Gary Griffin
+                            Van Yang, ElmoCrispers, Andy Drexler, Axel Vinant, Gary Griffin
                         </h3>
                         <h5>
                             Kyle Brown, Abdullah Mustapha, Robert Brunhage
