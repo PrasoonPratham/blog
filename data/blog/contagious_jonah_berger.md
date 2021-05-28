@@ -65,11 +65,17 @@ Arousal is what makes you physically feel something. Some examples of high arous
 A method to dig deep and figure out how to get to those emotions, there is a method called the "3 Whys". Ask why 3 times to really dig down to the core issue. Here is an example of this: 
 
 > John Smith (JS) talking to his boss: _"I think I need to quit, I really don't like my job."_
+> 
 > John's Boss: _"**Why** don't you like your job?"_
+> 
 > JS: _"The atmosphere isn't what it used to be when I started. It feels toxic and I never used to hate showing up for work, but now I do."_
+> 
 > Boss: _"**Why** do you hate showing up for work?"_
+> 
 > JS: _"The culture that existed when I started working here has changed. It's just not the same."_
+> 
 > Boss: _"**Why** do think the culture has changed?"_
+> 
 > JS: _"Well, it's that new guy, Tom. He's so negative. He has a comment for everything. He's frustrating to be around and really hurts our team's dynamic."_
 
 ## Chapter 4 - Public
