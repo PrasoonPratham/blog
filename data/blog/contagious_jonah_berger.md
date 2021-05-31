@@ -6,6 +6,8 @@ draft: false
 summary: Book review of Contagious by Jonah Berger. A marketing book about how to have your content go viral.
 ---
 
+![](https://i.imgur.com/mESssVi.png)
+
 This is the first book review that I have written. I think most books can be summarized drastically and still have most of the main ideas. The goal is to do just that with the book review section of this blog. For the first iterations they will cover three main parts:
 1. Quick Summary
 2. Overall Thoughts on the Book
