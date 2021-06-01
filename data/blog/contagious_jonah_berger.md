@@ -76,7 +76,7 @@ A method to dig deep and figure out how to get to those emotions, there is a met
 > 
 > JS: _"The culture that existed when I started working here has changed. It's just not the same."_
 > 
-> Boss: _"**Why** do think the culture has changed?"_
+> Boss: _"**Why** do you think the culture has changed?"_
 > 
 > JS: _"Well, it's that new guy, Tom. He's so negative. He has a comment for everything. He's frustrating to be around and really hurts our team's dynamic."_
 
