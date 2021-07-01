@@ -35,7 +35,7 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tadas Petra is a Flutter Developer, Youtuber, and Developer Evangelist at 
+              Tadas Petra is a Google Developer Expert for Flutter & Dart, Youtuber, and Developer Evangelist at 
               Agora Lab, Inc. His work includes creating educational content centered about 
               agora and flutter.
             </p>
