@@ -144,13 +144,13 @@ The book notes for "How to Win Friends and Influence People" is a little differe
 - Men are ruled by toys - Napoleon. This technique of giving titles and authority worked for him.
 
 # My Thoughts
-
 The title of this book seems to be very controlling, but the points covered are mostly points about just being a good person and a good friend, colleague, boss, etc. Although this book had a lot of great points, it never really went much deeper than just giving some examples from other people experience. 
 
 In my opinion, just reading the titles, and really thinking about the meaning and implications of what the title is saying is enough to get the most out of this book. 
 
 Overall the points are really great points. But the overarching idea was that this isn't something you should use to manipulate and make people do these things. The goal is to change your approach and see things from a different stand point, so that you can be more genuine and sincere whenever you are implementing one of these principles. 
 
-Overall: Lot's of value, but not a fun read.
+# Key Take Away
+Lot's of value, but not really a fun read.
 
 Rating: ★★★☆☆

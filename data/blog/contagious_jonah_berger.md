@@ -97,7 +97,7 @@ The last way is probably the most common marketing method out there. Using stori
 
 Finding a way to tell a story is one thing, but one thing to make sure is that your product is interwoven into the story and the story can't be told without it. On the other hand offer something that allows people to tell the stories themselves. One of the good examples was excellent customer service. 
 
-# Overall Thoughts
+# My Thoughts
 This was the first marketing book that I have read, and it really opened up the whole world of marketing for me. Reading this book made me realize that literally everything is controlled by marketing in our world. Each company is fighting for our attention and for the ability to _alter_ how we think and influence us to share their products.
 
 But I guess this is what the whole world is really about, even as individuals we are constantly marketing ourselves to the world. Especially on social media, with the things we are accomplishing, and the places we travel. 
