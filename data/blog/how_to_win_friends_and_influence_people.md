@@ -1,5 +1,5 @@
 ---
-title: How to Win Friends and Influence People by Jonah Berger
+title: How to Win Friends and Influence People by Dale Carnegie
 date: "2021-07-26"
 tags: ["Book Review"]
 draft: false
