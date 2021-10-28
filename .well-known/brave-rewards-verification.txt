@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tadaspetra.com
+Token: 282d36c29f8888a29841aecbc78f1117e74c39abf7b5521e42eb807c6de0bee5
