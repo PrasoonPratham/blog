@@ -1,6 +1,5 @@
-import siteMetadata from '@/data/siteMetadata'
-import SocialIcon from '@/components/social-icons'
 import { PageSeo } from '@/components/SEO'
+import siteMetadata from '@/data/siteMetadata'
 
 export default function Supporters() {
     return (
@@ -25,7 +24,7 @@ export default function Supporters() {
                 <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
                     <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
                         <h1>
-                            Tanner Meade
+                            Steve Balow
                         </h1>
                         {/* <h1>
                             Tanner Meade
@@ -34,10 +33,10 @@ export default function Supporters() {
                             Tanner Meade
                         </h2> */}
                         <h3>
-                            Van Yang, ElmoCrispers, Andy Drexler, Axel Vinant, Gary Griffin
+                            Van Yang, ElmoCrispers, Andy Drexler, Gary Griffin, Varun Bhalero, Andrii Reverchuk
                         </h3>
                         <h5>
-                            Kyle Brown, Abdullah Mustapha, Robert Brunhage
+                            Robert Brunhage
                         </h5>
                     </div>
                 </div>
